@@ -4,6 +4,14 @@ An enthusiastic & passionate Software Engineer just pursuing his dreams.
 
 - 🔭 I’m currently working on iOS devlopement
 - 🌱 I’m currently learning swift
+<!--
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=The+five+boxing+wizards+jump+quickly)](https://git.io/typing-svg)
+
+
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
+-->
 ---
 
 ### :fire: My Stats :
