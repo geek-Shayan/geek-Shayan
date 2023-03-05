@@ -7,10 +7,16 @@
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=geek-Shayan&theme=dark&hide_border=true)](https://git.io/streak-stats)
 -->
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=geek-Shayan&theme=gruvbox&border_radius=20&currStreakNum=EB641F)](https://git.io/streak-stats)
+![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=geek-Shayan&theme=gruvbox&border_radius=20&currStreakNum=EB641F)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=geek-Shayan&theme=gruvbox&border_radius=20)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=geek-Shayan&theme=gruvbox&border_radius=20)](https://github.com/anuraghazra/github-readme-stats)
+](https://git.io/streak-stats)
+
+
+
+
+
+](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
